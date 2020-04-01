@@ -1,0 +1,33 @@
+.borders
+{
+    border-width: 3px! important;
+}
+.color
+{
+    background: #0fabbc;
+}
+.signin
+{
+    padding-top: 5px;
+    font-size: 20px;
+}
+.icon{
+    padding-top: 5px;
+    font-size: 25px;
+}
+.btn_color
+{
+    background-color: #0fabbc;
+    color:white;
+}
+.icons
+{
+    font-size: 25px;
+}
+.btn_fb
+{
+    background-color: #0f4c75;
+}
+.btn_epam{
+    background-color: #8cba51;
+}
